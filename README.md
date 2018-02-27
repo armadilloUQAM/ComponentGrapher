@@ -102,7 +102,7 @@ The source code is distributed as  Netbeans project format.
 
 ## Dependencies
 
-ComponentGrapher depends on the following library:
+ComponentGrapher depends on the following libraries:
 
 ##### [SSJ](https://github.com/umontreal-simul/ssj)  
 The SSJ library is used for BitVector calculations and for computing random uniform distribution.  
